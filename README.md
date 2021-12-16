@@ -30,7 +30,7 @@ $ python2 FIRST.py
 
 ```
 
-#### :closed_lock_with_key: NO USERNAME AND PASS ðŸ¥°
+#### :closed_lock_with_key: USERNAME AND PASS ❓❓
 
 #### JOIN WHATSAPP GROUP <br>
 
